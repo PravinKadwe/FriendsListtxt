@@ -1,0 +1,16 @@
+.container{
+    margin: 100px 440px;
+}
+
+.form-group {
+    margin-bottom: 30px;
+}
+
+select {
+    padding-right:50px;
+}
+
+#myValue {
+    margin-bottom: 10px;
+    padding-right:300px;
+}

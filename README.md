@@ -1,7 +1,6 @@
 # FriendsListtxt
-Create web page in php which allow you to select name from dropdown, on submit it created .txt file with selected name in it.  
+Create a web page in PHP which allows you to select names from the dropdown, on submitting it create a .txt file with the selected name in it. 
 
 Hello Everyone,
-      This Project demonstrate gathering data from .txt file display in dropdown and selected option from dropdown list will be display below in the text box. 
-      After selection is done click on the "Save Friend list" button which will create "MyFriends.txt" file and selected name will be saved in it.
+      This Project demonstrates gathering data from the .txt file displayed in the dropdown, and the selected option from the dropdown list will be displayed below in the text box. After the selection is done click on the "Save Friend list" button which will create the "MyFriends.txt" file and the selected name will be saved in it.
       
